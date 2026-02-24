@@ -1,6 +1,7 @@
 # LLM Technology Stack - GPT Part
 一本系统性介绍LLM技术的书籍草稿，将定期发布更新版本。
 
+乙巳年腊月版 [v0.5.1](https://github.com/user-attachments/files/25278652/llm_tech_stack_gpt_part_v0.5.1.pdf) 已发布
 
 
 本书稿遵守如下指定的许可协议
