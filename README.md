@@ -1,6 +1,7 @@
 # 大模型技术栈 - GPT Part
 一本系统性介绍LLM技术的书籍草稿，将定期发布更新版本。
 
+丙午年正月版 [v0.5.2](https://github.com/mayulu/llm_technology_stack_gpt_part/releases/download/v0.5.2/llm_tech_stack_gpt_part_v0.5.2.pdf) 已发布
 乙巳年腊月版 [v0.5.1](https://github.com/user-attachments/files/25278652/llm_tech_stack_gpt_part_v0.5.1.pdf) 已发布
 
 
