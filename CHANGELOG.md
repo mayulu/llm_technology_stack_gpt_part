@@ -1,3 +1,8 @@
+丙午年伍月版 [v0.5.5](https://github.com/mayulu/llm_technology_stack_gpt_part/releases/download/v0.5.5/llm_tech_stack_gpt_part_v0.5.5.pdf) 已发布
+- 高级主题部分新增第十四章：推理模型
+- 增补附录B部分算子开源库
+- 部分文字校正
+
 丙午年贰月版 [v0.5.3](https://github.com/mayulu/llm_technology_stack_gpt_part/releases/download/v0.5.3/llm_tech_stack_gpt_part_v0.5.3.pdf) 已发布
 - 修订补充前三章：引言、模型文件、分词和嵌入内容，包括主体内容重构、补充扩展阅读材料、补充思考和讨论问题等。
 - 其它内容修正和补充。
